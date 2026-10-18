@@ -1,20 +1,20 @@
 # Trivia Royale — Project Status
 
 **Last updated:** 2026-10-18
-**Current phase:** 0 — Approved, ready to begin
-**Next action:** Create Next.js project, push to GitHub, connect Vercel + Supabase
+**Current phase:** 1 — Auth & Profiles
+**Next action:** Install Supabase JS client, build register/login/logout pages
 
 ---
 
 ## Phase Checklist
 
-### Phase 0 — Foundation ⬅️ CURRENT
-- [ ] Create Next.js project with TypeScript + Tailwind
-- [ ] Initialize Git and push to GitHub (apexeagle00/trivia-royale)
-- [ ] Connect Vercel for auto-deploys
-- [ ] Create Supabase project and connect keys
+### Phase 0 — Foundation ✅ COMPLETE
+- [x] Create Next.js project with TypeScript + Tailwind
+- [x] Initialize Git and push to GitHub (apexeagle00/trivia-royale)
+- [x] Connect Vercel for auto-deploys (trivia-royale-three.vercel.app)
+- [x] Create Supabase project and connect keys (wyfnnujophmekulaaryv)
 
-### Phase 1 — Auth & Profiles
+### Phase 1 — Auth & Profiles ⬅️ CURRENT
 - [ ] Register / login / logout (Supabase Auth)
 - [ ] Username and display name setup
 - [ ] Protected routes (can't access game without account)
